@@ -1,0 +1,36 @@
+.nav, .slider {
+	padding-top: 1em;
+}
+
+.slider {
+	padding-bottom: 1em;
+}
+
+.green {
+	height: 200px;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.yellow {	
+	padding-top: 1.5em;
+}
+
+.orange {
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+}
+
+.pied {
+	padding-top: 2em;
+	padding-bottom: 2em;
+	background-color: black;
+}
+
+.container {
+	background-color: #ecf0f1;
+	box-shadow: 0 9px 0px 0px #ecf0f1, 0 -9px 0px 0px #ecf0f1,0px 0px 10px 0px #656565, 0px 0px 10px 0px #656565;;
+
+}
